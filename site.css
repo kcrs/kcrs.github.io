@@ -1,0 +1,13 @@
+html{
+	background:url('kcrs.png') no-repeat center center;
+	min-height:100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+	min-height:100%;
+}
+
+h1 {
+  color: #302A07;
+}
